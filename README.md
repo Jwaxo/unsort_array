@@ -2,10 +2,8 @@ unsort_array.php, a simple function by @Jwaxo
 
 ## History
 
-2013.05.20 - Uploaded to GitHub
-
-2013.05.08 - Comments formatted and corrected
-
+2013.05.20 - Uploaded to GitHub  
+2013.05.08 - Comments formatted and corrected  
 2012.04.12 - Creation
 
 ## What It Does
